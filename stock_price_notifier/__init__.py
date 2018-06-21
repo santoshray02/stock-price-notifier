@@ -1,0 +1,1 @@
+name = "stock--price-notifier"
