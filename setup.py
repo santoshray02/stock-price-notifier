@@ -17,7 +17,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
           'beautifulsoup4==4.6.0',
-          'requests==2.19.1',
+          'requests==2.20.0',
       ],
     classifiers=(
         "Programming Language :: Python :: 3",
